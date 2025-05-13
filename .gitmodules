@@ -1,0 +1,3 @@
+[submodule "Front-end"]
+	path = Front-end
+	url = https://github.com/laksirib76/LF1-front-end.git
