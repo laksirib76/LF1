@@ -1,3 +1,3 @@
-[submodule "Front-end"]
-	path = Front-end
-	url = https://github.com/laksirib76/LF1-front-end.git
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/laksirib76/LF1-back-end.git
